@@ -13,7 +13,7 @@ public class launch {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to("http://demo.guru99.com/test/simple_context_menu.html");
-		System.out.println(1111);
+		System.out.println(111);
 	}
 
 }
