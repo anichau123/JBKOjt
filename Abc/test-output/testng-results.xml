@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4811" started-at="2021-11-23T09:57:28Z" finished-at="2021-11-23T09:57:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4811" started-at="2021-11-23T09:57:28Z" finished-at="2021-11-23T09:57:32Z">
+      <class name="com.test.launch">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.test.launch@55f3ddb1]" name="launchbrowser" duration-ms="4795" started-at="2021-11-23T01:57:28Z" finished-at="2021-11-23T01:57:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+      </class> <!-- com.test.launch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
